@@ -1,0 +1,8 @@
+runs/
+models/
+afhq/
+gtFine_trainvaltest/
+cut0.py
+resnet.py
+test.py
+*pycache*/
