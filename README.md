@@ -5,4 +5,5 @@ Taesung Park, Alexei A. Efros, Richard Zhang, and JunYan Zhu. Contrastive Learni
 
 # WORK IN PROGRESS
 
+Don't have the necessary computational resources to train this model yet.
 ![alt text](https://github.com/hayashimasa/Contrastive_Image_Translation/blob/master/graphs/sample_output.png?raw=true)
